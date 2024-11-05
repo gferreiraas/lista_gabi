@@ -1,0 +1,23 @@
+let numeros = [10, 20, 5, 30, 40];
+console.log (numeros.indexOf (5));
+
+let nomes = ["Ana", "Beatriz", "Carlos"];
+console.log (nomes.includes("Carlos"));
+
+letfrutas = ["maçã", "banana", "laranja"];
+console.log (frutas);
+
+letnumero = [5, 10, 15, 20];
+console.log (numero.indexOf (15));
+
+letcores = ["azul", "verde", "vermelho"];
+console.log (cores.includes("amarelo"));
+
+letlinguagem = ["JavaScript", "Python", "Java"];
+console.log (linguagem);
+
+letanimais = ["gato", "cachorro", "pássaro", "cachorro"];
+console.log (animais.indexOf ("cachorro"));
+
+letfrutas = ["maçã","banana", "uva"];
+console.log (frutas.includes ("laranja"));
